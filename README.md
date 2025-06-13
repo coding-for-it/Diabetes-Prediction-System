@@ -22,6 +22,14 @@ The dataset includes the following health-related features:
 - `matplotlib`, `seaborn` – for data visualization
 - `scikit-learn` – for data preprocessing, model training, and evaluation
 
+## 🔹 Features
+
+✅ **Comprehensive Exploratory Data Analysis (EDA)**  
+✅ **Clean and Preprocessed Data** (handled missing values, duplicates, and scaling)  
+✅ **Model Evaluation:** Logistic Regression, Decision Tree, and Random Forest  
+✅ **Performance Metrics:** Accuracy, Classification Report, and Confusion Matrix  
+✅ **Visualizations:** Distribution, Pairplot, Heatmap of correlations, and Model Evaluation charts  
+
 ## 🔍 Project Workflow
 
 ### 1. Data Cleaning
@@ -44,6 +52,15 @@ Three different models are trained:
   - Accuracy Score
   - Confusion Matrix
   - Classification Report
+ 
+
+### Tech Stack
+
+- **Python 3**
+- **Pandas**, **Numpy**
+- **Scikit-learn**
+- **Matplotlib**, **Seaborn**
+- **Jupyter Notebook**
 
 ## 🧪 How to Run
 
